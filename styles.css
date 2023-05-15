@@ -1,0 +1,19 @@
+body{
+    margin: 2px;
+    text-align: center;
+    background-color: #ffebcdb5;
+    color: #0000ffab;
+}
+#logo{
+    width: 5px;
+    height: 5px;
+    object-fit: contain;
+    margin-top: 3px;
+}
+.first{
+    background-color: #a52a2aa7;
+    margin-top: 4px;
+}
+.second{
+    background-color: #008000bd;
+}
